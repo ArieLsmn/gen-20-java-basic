@@ -1,4 +1,5 @@
-program dasar java untuk menampilkan hello world
+Program dasar java untuk menampilkan hello world
+## Blok Kode
 ```
 public class Main { 
 
@@ -9,6 +10,7 @@ public class Main {
     }
 }
 ```
+## Penjelasan
 `public class Main` = deklarasi class java, biasanya nama Main digunakan untuk class yang menjalankan fungsi utama program
 
 `public static void main(String[] args)` = deklarasi fungsi buatan, yang disebut sebagai method, khusus untuk fungsi "public static void main" digunakan sebagai fungsi utama untuk me-run sebuah project java
